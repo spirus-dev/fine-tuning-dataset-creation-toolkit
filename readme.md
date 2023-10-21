@@ -1,5 +1,5 @@
 # Introduction
-This `Fine Tuning Dataset Creation Toolkit` will help you in creation of JSONL dataset files that are needed for fine tuning `Completions` models like `babbage-002` or `davinci-002` and `Chat completions` model like `gpt-35-turbo-0613` from XLSX and CSV files. These JSONL dataset files can be used to fine tune models in OpenAI or Azure OpenAI.
+This `Fine Tuning Dataset Creation Toolkit` will help you in creation of JSONL dataset files that are needed for fine tuning `Completions` models like `babbage-002` or `davinci-002` and `Chat Completions` model like `gpt-35-turbo-0613` from XLSX and CSV files. These JSONL dataset files can be used to fine tune models in OpenAI or Azure OpenAI.
 
 # Prerequisites
 1. `Python 3.10+` installed
