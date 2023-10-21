@@ -70,4 +70,4 @@ This `Fine Tuning Dataset Creation Toolkit` will help you in creation of JSONL d
 4. Both of them will create a XLSX and CSV file in your working directory with name same as input JSON file.
 
 # Thank you!
-This toolkit saved me a lot of time in creating dataset files for fine tuning jobs. If it also helps you to save your time, then please share this with your friends and colleagues. Please don't forget to give it a ⭐. Feel free to raise an issue or send a PR for improvements.
+This toolkit saved me a lot of time in creating dataset files for fine tuning jobs. If it also helps you to save your time, then please share this with your friends and colleagues. Please don't forget to give it a :star2:. Feel free to raise an issue or send a PR for improvements.
